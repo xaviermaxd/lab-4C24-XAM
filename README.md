@@ -1,2 +1,3 @@
-Proyecto parte 1
+Proyecto parte 2
 ## Requerimiento
+### Diseño
